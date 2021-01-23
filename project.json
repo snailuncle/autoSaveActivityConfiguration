@@ -1,0 +1,8 @@
+{
+  "name": "新建项目",
+  "main": "main.js",
+  "ignore": ["build", ".vscode", "node_modules", "package-lock.json"],
+  "packageName": "com.example",
+  "versionName": "1.0.0",
+  "versionCode": 1
+}
